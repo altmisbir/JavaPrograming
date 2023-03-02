@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day03_EscapeSequences/Day03_EscapeSequences.iml" filepath="$PROJECT_DIR$/day03_EscapeSequences/Day03_EscapeSequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/IdeaProjects/JavaPractice/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaPrograming.iml" filepath="$PROJECT_DIR$/.idea/JavaPrograming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/JavaProgramming/JavaProgramming.iml" filepath="$PROJECT_DIR$/IdeaProjects/JavaProgramming/JavaProgramming.iml" />
+    </modules>
+  </component>
+</project>
