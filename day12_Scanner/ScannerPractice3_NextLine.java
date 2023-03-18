@@ -25,5 +25,7 @@ public class ScannerPractice3_NextLine {
         System.out.println("programming = "+programming);
         System.out.println("Age = " + age);
         System.out.println("Enter your School Name : "+schoolName);
+
+        input.close();
     }
 }
