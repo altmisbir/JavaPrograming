@@ -20,10 +20,12 @@ public class ReverseSecondWord {
         words[1] = reverse;
         System.out.println(Arrays.toString(words));
 
+        String result = "";
         for (String word:words) {
-            System.out.print(word +" ");
+            result += word + " ";
 
         }
+        System.out.println(result);
     }
 
 }
