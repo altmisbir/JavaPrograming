@@ -12,6 +12,8 @@ public class ReturnMethodPractice {
 
         int multiplication = maxNumber * 2;
 
+        System.out.println("multiplication = " + multiplication);
+
     }
 
     public static int max(int a, int b) {
