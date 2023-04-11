@@ -14,7 +14,9 @@ public class BreakfastTasks {
             domain(email);
 
         }
+        System.out.println("---------------------");
 
+        nameOfMonth(11);
 
     }
 
@@ -47,6 +49,20 @@ public class BreakfastTasks {
         }
         System.out.println("Month name = " + name);
     }
+
+    //4. Create a method that can print the name of the day based on the given number to the method
+    public static void nameOfDay(int number){
+
+
+    }
+
+    //5. Create a method that can print how many days a month has
+    public static void daysInMonth(int number){
+
+
+    }
+
+    // ageGroups(int age)
 
 }
 /*
