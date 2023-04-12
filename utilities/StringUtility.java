@@ -21,5 +21,8 @@ public class StringUtility {
         return result; // "avaJ"
     }
 
-
+    //checks if the given String is palindrome, returns boolean
+    public static boolean isPalindrome(String str){
+        return reverse(str).equalsIgnoreCase(str);
+    }
 }
