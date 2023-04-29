@@ -78,7 +78,6 @@ public class ArrayListMethods2 {
         System.out.println(list1.equals(list2));
 
         System.out.println("-----------------------------------------");
-        list1.clear();
         boolean r4 =  list1.isEmpty(); // true
 
         System.out.println("r4 = " + r4);
