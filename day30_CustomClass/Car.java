@@ -7,7 +7,7 @@ public class Car {
     public String color;
     public int year;
     public double price;
-    ,
+
 
 
     public void setInfo(String carBrand, String carModel, String carColor, int carYear, double carPrice) {
@@ -32,4 +32,13 @@ public class Car {
     public void drive() {
         System.out.println("Driving "+brand+" "+model);
     }
+
+    public void start() {
+        System.out.println(brand + " " + model + " has started");
+    }
+
+    public void stop() {
+        System.out.println(brand + " " + model + " has stopped");
+    }
+
 }
