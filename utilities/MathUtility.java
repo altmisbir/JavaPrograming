@@ -1,6 +1,7 @@
 package utilities;
 
 public class MathUtility {
+
     public static int sum(int num1, int num2){
         return num1 + num2;
     }
@@ -84,5 +85,7 @@ public class MathUtility {
     public static double cube(double num){
         return num * num * num;
     }
+
+
 
 }
