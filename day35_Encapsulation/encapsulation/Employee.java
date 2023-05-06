@@ -45,7 +45,9 @@ public class Employee {
     }
 
     public void setSalary(double salary) {
-
+        if (salary <= 0) {
+            return;
+        }
 
         this.salary = salary;
     }
