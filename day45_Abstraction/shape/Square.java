@@ -1,4 +1,12 @@
 package day45_Abstraction.shape;
 
-public class Square {
+public class Square extends Shape{
+
+
+
+
+
+
+
+
 }
