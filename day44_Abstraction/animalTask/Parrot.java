@@ -1,4 +1,8 @@
-package day44_Abstraction;
+package day44_Abstraction.animalTask;
+
+import day44_Abstraction.animalTask.Animal;
+import day44_Abstraction.animalTask.Flyable;
+import day44_Abstraction.animalTask.Playable;
 
 public final class Parrot extends Animal implements Playable, Flyable {
 
