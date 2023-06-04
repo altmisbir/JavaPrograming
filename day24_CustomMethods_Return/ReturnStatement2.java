@@ -7,7 +7,7 @@ public class ReturnStatement2 {
 
     }
 
-    //3. Create a method that can display the name of the month based on the given number to the method
+    //3. Create a method that can display the name of the Month based on the given number to the method
     public static void nameOfMonth(int number){  // 95
 
         if(number < 1 || number > 12){

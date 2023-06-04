@@ -7,7 +7,7 @@ public class BirthDay {
         String month = "April";
         int birthYear = 1995;
 
-        //John was born on month/day/year.
+        //John was born on Month/day/year.
         System.out.println(name + " was born on " + month + "/" +birthDay +"/"+birthYear );
 
         System.out.println("-----------------------------------------------");

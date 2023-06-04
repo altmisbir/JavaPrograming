@@ -33,7 +33,7 @@ public class BreakfastTasks {
         System.out.println("domain = " + domain);
     }
 
-    //3. Create a method that can display the name of the month based on the given number to the method
+    //3. Create a method that can display the name of the Month based on the given number to the method
     public static void nameOfMonth(int number){
 
         String name = "";
@@ -56,7 +56,7 @@ public class BreakfastTasks {
 
     }
 
-    //5. Create a method that can print how many days a month has
+    //5. Create a method that can print how many days a Month has
     public static void daysInMonth(int number){
 
 
@@ -69,9 +69,9 @@ public class BreakfastTasks {
 Warmup tasks:
 	1. Create a method that can display the initials of the person
 	2. Create a method that can display the domain of the email
-	3. Create a method that can display the name of the month based on the given number to the method
+	3. Create a method that can display the name of the Month based on the given number to the method
 	4. Create a method that can print the name of the day based on the given number to the method
-	5. Create a method that can print how many days a month has
+	5. Create a method that can print how many days a Month has
     6. ageGroups
                 age groups are:
                         infant (1 - 2), Toddler (3 - 5),Kid (6 - 9), Pre-Teen (10 - 12),
