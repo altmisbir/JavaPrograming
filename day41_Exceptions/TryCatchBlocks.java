@@ -7,7 +7,7 @@ public class TryCatchBlocks {
 
     public static void main(String[] args) {
 
-        System.out.println("Test1 started");
+        System.out.println("Task1 started");
 
         try{
 
@@ -26,7 +26,7 @@ public class TryCatchBlocks {
 
 
 
-        System.out.println("Test1 Completed");
+        System.out.println("Task1 Completed");
 
         System.out.println("------------------------------");
 
